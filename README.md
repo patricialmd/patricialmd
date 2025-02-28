@@ -1,4 +1,4 @@
-# Hi there, I'm Patricia 👋
+# Hello, I'm Patricia 👋
 I'm a recent Data Analytics graduate and an aspiring Data Analyst currently based in 🇦🇺 Australia.
 
 ## 🚀 About Me in 30 seconds:
