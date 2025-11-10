@@ -7,6 +7,8 @@ I'm a recent Data Analytics graduate and an aspiring Data Analyst currently base
 * ⚡ Fun fact: When I'm not immersed in data, I enjoy crocheting amigurumis (crochet stuffed toys)
 * 📫 LinkedIn: https://www.linkedin.com/in/patricialamadrid/
 
+ ⬇️ Check out my projects below. 😊 ⬇️
+
 
 
 
