@@ -1,7 +1,5 @@
 # Hello 👋 I'm Patricia 👩
-I'm an aspiring Data Analyst currently based in 🇦🇺 Australia.
-
-## About Me in 30 seconds:
+**About Me in 30 seconds:**
 * 📊 Master of Data Analytics (2024)
 * 💼 Experience in:
   - customer service across banking and finance sectors;
