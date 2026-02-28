@@ -12,7 +12,7 @@ I'm an aspiring Data Analyst currently based in 🇦🇺 Australia.
 * 📫 LinkedIn: https://www.linkedin.com/in/patricialamadrid/
 
 ---
-📌 For a full overview of my projects, visit my **data-and-tech-portfolio**
+📌 For a full overview of my projects, visit my [**data-and-tech-portfolio**] (https://github.com/patricialmd/data-and-tech-portfolio)
 
 
 
